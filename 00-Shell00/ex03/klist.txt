@@ -1,0 +1,5 @@
+Credentials cache: API:514F8EB4-AD6C-4940-B11A-E3D27B73B980
+        Principal: mlazzare@S19.BE
+
+  Issued                Expires               Principal
+Oct  5 13:11:17 2020  Oct  5 23:11:12 2020  krbtgt/S19.BE@S19.BE

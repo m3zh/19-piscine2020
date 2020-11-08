@@ -1,0 +1,1 @@
+find -E . -type f -regex ".*/#.+#$|.+~$" -print -delete
